@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/luisa/Meu Drive/Aprendendo_C",
-      "program": "c:/Users/luisa/Meu Drive/Aprendendo_C/build/Debug/outDebug",
+      "cwd": "c:/Users/luisa/Meu Drive/Aprendendo_C/Lista Simplesmente Encadeada",
+      "program": "c:/Users/luisa/Meu Drive/Aprendendo_C/Lista Simplesmente Encadeada/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
